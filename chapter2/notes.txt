@@ -1,0 +1,6 @@
+Reserved Words(if,while, ...)
+
+non-English languages can also be used:
+const π = 3.14;
+const sí = true;
+

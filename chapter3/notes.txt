@@ -1,0 +1,24 @@
+Chapter 3. Types, Values, and Variables
+Types can be divided into two: primitive and object types.
+
+
+Primitive type consist of 7:
+1. String
+2. Number
+3. Boolean
+4. Null
+5. Undefined
+6. Symbol              to generate new unique value
+7. Bigint              wrote with n if not it is number
+
+
+Object types:           Example
+1. Object               {car: nexia}
+2. Array                [1,2,3]
+3. function             function(){}
+4. Date                 new Date()
+5. RegExp               /\d=/
+6. Map, set             new Map(), new Set()
+
+
+
